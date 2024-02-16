@@ -1,3 +1,3 @@
 # sikander_demo
 This is my first repository.
-Authar - sikander aazam
+Author - sikander aazam
